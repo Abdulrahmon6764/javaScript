@@ -1,0 +1,51 @@
+*{
+    padding: none;
+    margin: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+#demo1{
+    text-align: center;
+    color: red;
+}
+
+.che{
+    width: 15%;
+    padding: 12px;
+}
+.eyes{
+    color: red;
+    position: relative;
+    right: 20px;
+}
+.icon{
+    color: red;
+    position: relative;
+    right: 19px;
+}
+.fa-solid{
+    font-size: 18px;
+    color: navy;
+    position: relative;
+    right: 20px;  
+}
+.fa-regular{
+    color: red;
+    position: relative;
+    right: 19px;
+    font-size: 18px;
+}
+.objMethod{
+    color: brown;
+    font-size: x-large;
+    text-align: center;
+}
+.dis{
+    display: none;
+}
+.visi{
+    visibility: hidden;
+}
+.visible{
+    visibility: visible;
+}
